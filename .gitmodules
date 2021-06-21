@@ -1,0 +1,9 @@
+[submodule "NeSI_tools/SlurmNativePlotter"]
+	path = NeSI_tools/SlurmNativePlotter
+	url = https://github.com/CallumWalley/slurm_native_h5_plotter.git
+[submodule "NeSI_tools/SlurmJob"]
+	path = NeSI_tools/SlurmJob
+	url = https://github.com/CallumWalley/matlab_SlurmJob
+[submodule "NeSI_tools/SlurmManager"]
+	path = NeSI_tools/SlurmManager
+	url = https://github.com/CallumWalley/matlab_SlurmManager
